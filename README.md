@@ -1,1 +1,1 @@
-# obsidian-vault-flutter
+# This repo hosts the obsidian vault for Flutter
