@@ -1,1 +1,4 @@
-This package is based in [[InheritedWidget]].
+---
+tags: StateManagement
+---
+This package is a wrapper of [[InheritedWidget]].
